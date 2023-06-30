@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm Bin ze.
-- 🔭 I’m currently working on **novel view synthesis** and deep learning in computer vision
-- 💬 Ask me about **anything related to deep learning in computer vision**
+- 🔭 I’m currently working on **novel view synthesis**.
+- 💬 Ask me about **anything related to deep learning in computer vision**.
 <!-- 
 - 🔭 I’m currently studying my master's degree at Nanjing University of Information and Technology
 - 📫 How to reach me: binze.zero@gmail.com
